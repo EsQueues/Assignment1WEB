@@ -1,0 +1,54 @@
+  header {
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+  }
+
+  .icon-img {
+     height: 100px;
+  }
+
+  .qazaq-icon {
+     height: 100px;
+     width: 280px;
+     background-color: bisque;
+  }
+
+  #word-libr {
+     position: absolute;
+     padding: 10px;
+     padding-bottom: 30px;
+     display: inline;
+  }
+
+  nav a {
+     margin-right: 60px;
+     font-size: 25px;
+     font-family: 'Times New Roman', Times, serif;
+     text-decoration: none;
+
+  }
+
+.top10 {
+   margin-top: 60px;
+   justify-content: space-between;
+   display: flex;
+   flex-wrap: wrap;
+   max-width: 1500px;
+   margin-left: 90px;
+font-size: 30px;
+}
+
+.top10 section {
+   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   flex: 1;
+   max-width: 1000px;
+   margin: 10px;
+}
+body{
+   background-color: cadetblue;
+
+}
+#mahabbat-img {
+   height: 600px;
+}

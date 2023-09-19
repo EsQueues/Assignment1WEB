@@ -3,6 +3,9 @@
      justify-content: space-between;
      align-items: center;
   }
+  body{
+      margin: 0;
+  }
 
   .icon-img {
      height: 100px;
@@ -49,6 +52,6 @@ body{
    background-color: cadetblue;
 
 }
-#mahabbat-img {
+.book-img {
    height: 600px;
 }

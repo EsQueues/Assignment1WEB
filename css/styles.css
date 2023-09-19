@@ -44,18 +44,21 @@ nav a{
 }
 
 .qyz-img{
-   height: 800px;
-   width: 700px;
+   height: 700px;
+   width: 600px;
 }
 .alash-img{
    height: 800px;
-   width: 700px;
+   width: 750px;
+}
+hr{
+   border-top: 1px dashed black;//
 }
 
 .identity-books {
    display: flex;
    justify-content: space-between;
-   align-items: center; /* Align items vertically */
+   align-items: center;
 }
 
 .identity-Abay-img {
@@ -84,6 +87,7 @@ footer {
    display: flex;
    flex-wrap: wrap;
    justify-content: center;
+
 }
 
 footer section {
@@ -92,9 +96,6 @@ footer section {
    margin: 10px;
 }
 
-blockquote {
-   margin-right: 4px;
-}
 
 
 

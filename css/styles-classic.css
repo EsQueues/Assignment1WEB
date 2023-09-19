@@ -28,8 +28,6 @@ nav a {
    font-size: 25px;
    font-family: 'Times New Roman', Times, serif;
    text-decoration: none;
-
-
 }
 .top10{
    margin-top: 60px;
@@ -54,6 +52,6 @@ nav a {
 body{
    background-color: burlywood;
 }
-#mahabbat-img{
+.mahabbat-img{
    height: 600px;
 }

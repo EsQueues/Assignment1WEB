@@ -1,0 +1,57 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.icon-img {
+    height: 100px;
+}
+
+.qazaq-icon {
+    height: 100px;
+    width: 280px;
+    background-color: thistle;
+}
+
+#word-libr {
+    position: absolute;
+    padding: 10px;
+    padding-bottom: 30px;
+    display: inline;
+}
+nav a {
+    margin-right: 60px;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+.top10{
+    margin-top: 60px;
+    justify-content: space-between;
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1500px;
+    margin-left: 90px;
+
+}
+.top10 section {
+    flex: 1;
+    max-width: 1000px;
+    margin: 10px;
+}
+.title{
+    position: relative;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 100px;
+    text-align: center;
+}
+body{
+    background-color: thistle;
+    margin: 0;
+
+}
+.book-img{
+    height: 600px;
+}

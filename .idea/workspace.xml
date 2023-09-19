@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c23628f0-187e-4785-b0f4-f6c85222bcb8" name="Changes" comment="sa">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/63971430137886.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/Img_book (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/abayjolu.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/aqbilek.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/bota.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/classic.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/elimai.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/forclassic.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/isaulov_e_orazbay_z_shyyz_han_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/jamal.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/kitap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/kitap1alash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/koshpendiler.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/maha.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/mahabbat.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/past.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/qanmenter.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/tarjol.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/ulpan.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/ushkan.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/zhu.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/Тар-кезенге.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/загрузка.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/фь.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/styles-alash.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/styles-classic.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/styles-girl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/styles-history.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/LibraryMain.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/alash.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/batyr.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/girl.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/identity.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mainPage-img/alash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mainPage-img/batyr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mainPage-img/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mainPage-img/iconQazaq.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mainPage-img/identityAbay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mainPage-img/qyz.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/63971430137886.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Img_book (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Img_book.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibraryMain.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/abayjolu.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alash.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aqbilek.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/batyr.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bota.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classic.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/elimai.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/forclassic.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/girl.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/identity.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/illustration.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/isaulov_e_orazbay_z_shyyz_han_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jamal.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kitap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/koshpendiler.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/maha.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mahabbat.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/past.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qanmenter.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qazaq.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles-classic.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles-history.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tarjol.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulpan.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ushkan.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhu.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Тар-кезенге.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/загрузка.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/фь.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2VZgXQXMjlOmgVUMmjzErQqoNMB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lenovo/Desktop/Assignment1WEB&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Desktop\Assignment1WEB\html" />
+      <recent name="C:\Users\Lenovo\Desktop\Assignment1WEB/html" />
+      <recent name="C:\Users\Lenovo\Desktop\Assignment1WEB/girl" />
+      <recent name="C:\Users\Lenovo\Desktop\Assignment1WEB/css" />
+      <recent name="C:\Users\Lenovo\Desktop\Assignment1WEB\css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c23628f0-187e-4785-b0f4-f6c85222bcb8" name="Changes" comment="" />
+      <created>1695049055356</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695049055356</updated>
+      <workItem from="1695049056462" duration="9857000" />
+      <workItem from="1695059072977" duration="283000" />
+      <workItem from="1695098842712" duration="7711000" />
+      <workItem from="1695117745556" duration="2475000" />
+    </task>
+    <task id="LOCAL-00001" summary="sa">
+      <option name="closed" value="true" />
+      <created>1695059342322</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695059342322</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sa" />
+    <option name="LAST_COMMIT_MESSAGE" value="sa" />
+  </component>
+</project>
